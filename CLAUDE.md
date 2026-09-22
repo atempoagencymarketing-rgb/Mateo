@@ -35,7 +35,9 @@ Si tocas uno, tócalo en **todas** las páginas.
 
 ## Equipo (orden de las tarjetas, no reordenar)
 
-1. Víctor · 2. Camilo · 3. Mario · 4. José Antonio · 5. Lourdes (Administrativa) · 6. Jesús
+1. Lotfi · 2. Miguel Ángel · 3. Mario · 4. José Antonio · 5. Lourdes (Administrativa) · 6. Jesús
+
+(Víctor y Camilo ya no trabajan en el taller — sustituidos por Lotfi y Miguel Ángel en sept. 2026.)
 
 ## Tarea solicitada
 
